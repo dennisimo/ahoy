@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "Andy Dennis",
+    "url": "http://dennisimo.com/"
+  },
+  "bin": {
+    "ahoy": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/dennisimo/ahoy/issues"
+  },
+  "dependencies": {
+    "node-static": "~0.7.6"
+  },
+  "description": "Let nearby devices hook into your app.",
+  "homepage": "http://github.com/dennisimo/ahoy",
+  "keywords": [
+    "ahoy",
+    "app",
+    "client",
+    "connection",
+    "frigate",
+    "hook",
+    "local",
+    "LAN",
+    "network",
+    "pairing",
+    "server"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "http://dennisimo.mit-license.org"
+  },
+  "main": "./lib/index.js",
+  "name": "ahoy",
+  "preferGlobal": "true",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dennisimo/ahoy.git"
+  },
+  "version": "0.0.0"
+}
