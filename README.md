@@ -1,3 +1,12 @@
+# Ahoy
+
+Let nearby devices hook into your app.
+
+## What the... ?
+
+...
+
+<!--
 # Hook
 
 Hook is a client-server solution whereby apps can easily connect to other apps on the same network.
@@ -53,8 +62,4 @@ This passcode can be displayed to the user of the server, who can share it with 
 ## Modules and components
 
 Hook's functionality is split into client and server implementations and distributed as Common JS modules via [NPM](https://npmjs.org/packages/hookahoy).
-
-
-
-
-
+-->
