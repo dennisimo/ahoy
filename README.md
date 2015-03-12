@@ -2,6 +2,9 @@
 
 Let nearby devices hook into your app.
 
+**README coming soon!** Apologies for the delay.
+
+
 ## What the... ?
 
 ...
