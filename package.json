@@ -27,6 +27,9 @@
     "pairing",
     "server"
   ],
+  "devDependencies": {
+    "standard": "*"
+  },
   "license": {
     "type": "MIT",
     "url": "http://dennisimo.mit-license.org"
