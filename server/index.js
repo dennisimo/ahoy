@@ -1,6 +1,6 @@
 var ahoy = require('../lib')
-var static = require('node-static')
-var file = new static.Server('.', { headers: {'Access-Control-Allow-Origin': '*'} })
+var nodeStatic = require('node-static')
+var file = new nodeStatic.Server('.', { headers: {'Access-Control-Allow-Origin': '*'} })
 
 require('fs').readFile('ahoy.json', function (err, data) {
   if (err) {
